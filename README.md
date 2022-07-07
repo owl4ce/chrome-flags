@@ -1,11 +1,11 @@
 <div align="justify">
 
 ```
-Brave:               1.39.111 Chromium: 102.0.5005.61 (Official Build) unknown (64-bit) 
-Revision:            0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}
+Brave:               1.41.94 Chromium: 103.0.5060.114 (Official Build) unknown (64-bit) 
+Revision:            a1c2360c5b02a6d4d6ab33796ad8a268a6128226-refs/branch-heads/5060@{#1124}
 Operating System:    Gentoo/Linux x86_64 // Gentoo Base System release 2.8
-JavaScript:          V8 10.2.154.4
-Command-line:        brave --use-gl=desktop --enable-features=VaapiVideoDecoder %u
+JavaScript:          V8 10.3.174.18
+Command-line:        brave --use-gl=desktop --enable-features=VaapiVideoDecoder,VaapiVideoEncoder %u
 ```
 
 # <img alt="" align="left" src="https://badges.pufler.dev/visits/owl4ce/chrome-flags?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/> <p align="right">`Enabled`</p>
